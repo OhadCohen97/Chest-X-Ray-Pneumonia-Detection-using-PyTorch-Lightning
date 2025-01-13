@@ -6,6 +6,12 @@ This project implements a Convolutional Neural Network (CNN) to detect pneumonia
 
 The model is trained on the [Chest X-Ray Images (Pneumonia) dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data), which includes 5,863 images categorized as 'Pneumonia' or 'Normal'. This dataset is organized into training, validation, and test sets, facilitating effective model development and assessment.
 
+### Sample Images
+
+| **Normal**  | **Pneumonia** |
+|-------------|--------------|
+| ![Normal X-Ray](images/normal_sample.png) | ![Pneumonia X-Ray](images/pneumonia_sample.png) |
+
 ## Model Architecture
 
 The project employs a CNN architecture built with PyTorch Lightning, enhancing code readability and scalability. PyTorch Lightning abstracts much of the boilerplate code, allowing for a focus on model development and experimentation.
