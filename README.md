@@ -10,7 +10,7 @@ The model is trained on the [Chest X-Ray Images (Pneumonia) dataset](https://www
 
 | **Normal**  | **Pneumonia** |
 |-------------|--------------|
-| ![Normal X-Ray](images/normal_sample.png) | ![Pneumonia X-Ray](images/pneumonia_sample.png) |
+| ![Normal X-Ray](IM-0001-0001_NORMAL.jpeg) | ![Pneumonia X-Ray](person295_virus_612.jpeg) |
 
 ## Model Architecture
 
